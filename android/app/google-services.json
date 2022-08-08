@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "4959840882",
+    "project_id": "zozsocialapp",
+    "storage_bucket": "zozsocialapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4959840882:android:83245fd8e9928827cb30eb",
+        "android_client_info": {
+          "package_name": "com.example.androidstudio_fles_socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4959840882-t875naj60f34p3k95t29hmsofh6oj91b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidstudio_fles_socialapp",
+            "certificate_hash": "901aa25ed02bff3ffa49bf56dd6b19d6df7a8ba9"
+          }
+        },
+        {
+          "client_id": "4959840882-grp5u57c4kuba9jmel8119084urfmm0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkeJ4IpDjPRzqOD65pHHP-RS_LkFvY5gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4959840882-grp5u57c4kuba9jmel8119084urfmm0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
