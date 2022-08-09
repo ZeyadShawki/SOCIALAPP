@@ -23,4 +23,9 @@ your profile
 CHAT WITH YOUR FRIENDS
 ![20220809_015547939 1](https://user-images.githubusercontent.com/110336659/183687075-21094f0e-c8c9-4b5b-a31b-f5ce0ab803a9.png)
 
+add new post
+
+![Screenshot_20220809-182236_untitled](https://user-images.githubusercontent.com/110336659/183705593-ac32d13b-3bd6-47e5-9ca9-f9e3a656d32f.png)
+
+
 ![20220809_015548273 1](https://user-images.githubusercontent.com/110336659/183687399-e4ebd8d9-7ec2-46c2-8d5e-7420225ebbf9.png)
